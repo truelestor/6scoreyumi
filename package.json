@@ -1,0 +1,18 @@
+{
+  "name": "6scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "amazing-credit-scores.net ◄ Get Your FREE Credit Score amazing-credit-scores.net, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "amazing-credit-scores.net",
+    "car loans for 600 credit score",
+    "buying house with low credit score",
+    "credit score percentile by age",
+    "who's credit score"
+  ],
+  "repository": "https://github.com/truelestor/6scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
